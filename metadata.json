@@ -1,0 +1,6 @@
+{
+  "name": "Sultan Market AI Agent",
+  "description": "1300+ mahsulotli ombor uchun sun'iy intellektga asoslangan zaxira va avto-buyurtma agenti",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

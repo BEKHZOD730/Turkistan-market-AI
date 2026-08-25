@@ -93,7 +93,7 @@ fun AiAssistantScreen(
                 Spacer(modifier = Modifier.width(10.dp))
                 Column {
                     Text(
-                        text = "Turkistan AI Agent Yordamchi",
+                        text = "Sultan AI Agent Yordamchi",
                         fontSize = 18.sp,
                         fontWeight = FontWeight.Bold,
                         color = Color.White

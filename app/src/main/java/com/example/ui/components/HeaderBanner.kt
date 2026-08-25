@@ -123,7 +123,7 @@ fun HeaderBanner(
                 Spacer(modifier = Modifier.height(10.dp))
 
                 Text(
-                    text = "Turkistan Market AI Agent",
+                    text = "Sultan Market AI Agent",
                     color = Color.White,
                     fontSize = 22.sp,
                     fontWeight = FontWeight.Bold

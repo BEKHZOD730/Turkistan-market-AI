@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Turkistan Market AI Agent"
+rootProject.name = "Sultan Market AI Agent"
 
 include(":app")

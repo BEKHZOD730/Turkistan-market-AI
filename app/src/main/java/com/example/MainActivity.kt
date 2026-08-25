@@ -63,7 +63,7 @@ class MainActivity : ComponentActivity() {
                         TopAppBar(
                             title = {
                                  Text(
-                                     text = "Turkistan AI Agent",
+                                     text = "Sultan Market AI Agent",
                                      fontSize = 18.sp,
                                      fontWeight = FontWeight.Bold,
                                      color = Color.White
